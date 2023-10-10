@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="reveron" size="556.000000 329.000000" />
+    <ImageTarget name="businessCardFront" size="1100.000000 626.000000" />
+    <ImageTarget name="businessCardBack" size="550.000000 313.000000" />
+  </Tracking>
+</QCARConfig>

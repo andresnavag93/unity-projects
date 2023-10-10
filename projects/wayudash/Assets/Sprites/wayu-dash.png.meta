@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: 01a70385b6f4744cd9ff6a02a58dccfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: wayu-dash_0
+  - first:
+      213: 21300002
+    second: wayu-dash_1
+  - first:
+      213: 21300004
+    second: wayu-dash_2
+  - first:
+      213: 21300006
+    second: wayu-dash_3
+  - first:
+      213: 21300008
+    second: wayu-dash_4
+  - first:
+      213: 21300010
+    second: wayu-dash_5
+  - first:
+      213: 21300012
+    second: wayu-dash_6
+  - first:
+      213: 21300014
+    second: wayu-dash_7
+  - first:
+      213: 21300016
+    second: wayu-dash_8
+  - first:
+      213: 21300018
+    second: wayu-dash_9
+  - first:
+      213: 21300020
+    second: wayu-dash_10
+  - first:
+      213: 21300022
+    second: wayu-dash_11
+  - first:
+      213: 21300024
+    second: wayu-dash_12
+  - first:
+      213: 21300026
+    second: wayu-dash_13
+  - first:
+      213: 21300028
+    second: wayu-dash_14
+  - first:
+      213: 21300030
+    second: wayu-dash_15
+  - first:
+      213: 21300032
+    second: wayu-dash_16
+  - first:
+      213: 21300034
+    second: wayu-dash_17
+  - first:
+      213: 21300036
+    second: wayu-dash_18
+  - first:
+      213: 21300038
+    second: wayu-dash_19
+  - first:
+      213: 21300040
+    second: wayu-dash_20
+  - first:
+      213: 21300042
+    second: wayu-dash_21
+  - first:
+      213: 21300044
+    second: wayu-dash_22
+  - first:
+      213: 21300046
+    second: wayu-dash_23
+  - first:
+      213: 21300048
+    second: wayu-dash_24
+  - first:
+      213: 21300050
+    second: wayu-dash_25
+  - first:
+      213: 21300052
+    second: wayu-dash_28
+  - first:
+      213: 21300054
+    second: wayu-dash_31
+  - first:
+      213: 21300056
+    second: wayu-dash_32
+  - first:
+      213: 21300058
+    second: wayu-dash_33
+  - first:
+      213: 21300060
+    second: wayu-dash_34
+  - first:
+      213: 21300062
+    second: wayu-dash_35
+  - first:
+      213: 21300064
+    second: wayu-dash_36
+  - first:
+      213: 21300066
+    second: wayu-dash_39
+  - first:
+      213: 21300068
+    second: wayu-dash_40
+  - first:
+      213: 21300070
+    second: wayu-dash_41
+  - first:
+      213: 21300072
+    second: wayu-dash_43
+  - first:
+      213: 21300074
+    second: wayu-dash_44
+  - first:
+      213: 21300076
+    second: wayu-dash_45
+  - first:
+      213: 21300078
+    second: wayu-dash_46
+  - first:
+      213: 21300080
+    second: wayu-dash_47
+  - first:
+      213: 21300082
+    second: wayu-dash_48
+  - first:
+      213: 21300084
+    second: wayu-dash_49
+  - first:
+      213: 21300086
+    second: wayu-dash_50
+  - first:
+      213: 21300088
+    second: wayu-dash_51
+  - first:
+      213: 21300090
+    second: wayu-dash_52
+  - first:
+      213: 21300092
+    second: wayu-dash_53
+  - first:
+      213: 21300094
+    second: wayu-dash_54
+  - first:
+      213: 21300096
+    second: wayu-dash_55
+  - first:
+      213: 21300098
+    second: wayu-dash_56
+  - first:
+      213: 21300100
+    second: wayu-dash_57
+  - first:
+      213: 21300102
+    second: wayu-dash_58
+  - first:
+      213: 21300104
+    second: wayu-dash_59
+  - first:
+      213: 21300106
+    second: wayu-dash_60
+  - first:
+      213: 21300108
+    second: wayu-dash_61
+  - first:
+      213: 21300110
+    second: wayu-dash_62
+  - first:
+      213: 21300112
+    second: wayu-dash_63
+  - first:
+      213: 21300114
+    second: wayu-dash_64
+  - first:
+      213: 21300116
+    second: wayu-dash_65
+  - first:
+      213: 21300118
+    second: wayu-dash_66
+  - first:
+      213: 21300120
+    second: wayu-dash_67
+  - first:
+      213: 21300122
+    second: wayu-dash_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wayu-dash_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5196
+        width: 988
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4fd082cf8448278e2350d914d8b85
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_1
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 5195
+        width: 2000
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6b2149ca04b43eca9eeb444a59ad06
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4277
+        width: 990
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b5938442abc45e39d9efc158e1988e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_3
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 4277
+        width: 2000
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee31a8451ef74dc6b6b57f81712552f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3353
+        width: 990
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6cc0eb6b03d4382b43ecb7dc40fab0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 3353
+        width: 2000
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b725c12bc2741d79e27305826a89e0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3147
+        width: 253
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5dd67d9a8174751b5d329df5bb8655
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3141
+        width: 403
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dbac3baea45442e91162f62ee1910f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3144
+        width: 254
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9016a7b9b7b487f8c326f1036a607c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 3138
+        width: 253
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90769ab846e046ff87ffcf9a040dd3b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_10
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3138
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e08420859e468fbf6549e1fc0e5a8
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3132
+        width: 259
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd782101f8d242d3b843c14857f7738
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_12
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3135
+        width: 445
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcd98da9d6644cbb4fbc2542f7ab9b
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_13
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3132
+        width: 447
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c80c16e8de34f85a782a0390dffd5d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_14
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3254
+        width: 152
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4fd2b7ea32d463a9fb9abf4ba4eb6c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_15
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3132
+        width: 152
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0a115e917442d58e8ca76da7a21b1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2887
+        width: 289
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef43d2f8a7449de8402b6ebe22a395
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2887
+        width: 442
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deafcb0005f74b3f866a47d1dfadb95
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_18
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2887
+        width: 292
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15345a08a16042838f77fe20dbb80ce
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_19
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2896
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccfb8f461d854004b54c0b7980db1f4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_20
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 2893
+        width: 471
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e2d3537dd5e430abc01c2436fcffd5
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_21
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2899
+        width: 444
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab3e910ef6044ce83f97d4bef065c9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_22
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2896
+        width: 445
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e06633657e42c0b25e2785ae3e282
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_23
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 2855
+        width: 223
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f77b95ef8a48ae8f97f172d0cae66
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2568
+        width: 289
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c603b8ed93a44cfb355eb6edea2f30
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2580
+        width: 994
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d032ecd50fcc4caab3391649580d78d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_28
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 2622
+        width: 832
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa759a0495904c6ca4c73b7ce4479c5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_31
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2723
+        width: 310
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69d87863eaaa4cf4ae53d2fb15b9db8
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_32
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 2613
+        width: 462
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb3588e5c194ccda7795cd7e2f9b9f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_33
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1834
+        width: 108
+        height: 764
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234cd1ba72e04a72851918b3e87767f
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_34
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1843
+        width: 101
+        height: 767
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04268e477444421a0f9ae9b2cf62b9
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_35
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 2577
+        width: 310
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd8932905c3e44a6a48900996577e03
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2362
+        width: 1142
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d787fed371b1042f6a5b8366e026039d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_39
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1286
+        width: 334
+        height: 1267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8865ce5f1347b29708cdac12989a8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_40
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1751
+        width: 1193
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f4bec28783464dad262be95533175
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2142
+        width: 1117
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd166d1bcb4446fea1d2fccac4c86eb
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1873
+        width: 510
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542dca15f43541a29ba540f321c9526
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_44
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1160
+        width: 525
+        height: 919
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4398b31823e444891b0a3278b16478b5
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1641
+        width: 471
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a061e11e274984b4d5682f29a27ae
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1632
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68752eef0921243de95bab29d96eece5
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_47
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1536
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc13dd129ab44738a0395a49f3a546
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_48
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1539
+        width: 194
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2078d2d4c3294223bd8647e0acf530a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_49
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1539
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1d42b37cb346588aac8938eee8c7d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_50
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1536
+        width: 185
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab7414e9008d4847a58a41980a2aca0
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_51
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1542
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3176d626b4584a8099c6adc7ec1c951
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_52
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 1539
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9e12b1bf7a499ead71f37cf7e5c7e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1417
+        width: 432
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f783763c44046e2b97f77ba4619c34
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_54
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1250
+        width: 367
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2695ca5952c934b17885595756cbb398
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_55
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1327
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbe4c15738e847acb63bab8dadb644a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_56
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1327
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b08362d54784d78b77546f5e5b7bee
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_57
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1029
+        width: 299
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe0191377c234a66a2b288f5abc9829
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_58
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1298
+        width: 292
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7456f89f14d34779b4075e0440088d6
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_59
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1286
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb767c2fb004c559907607865673cd
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1211
+        width: 432
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28cf5639e21643eda152c760d984340
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_61
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1148
+        width: 930
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144bb46c455644878f69d631307b2f2
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_62
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1044
+        width: 260
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4edab0311b32402d862ea2e65ad2218
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_63
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1092
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51fac33d441d4ef3b9a2a3ccb7bae38
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1038
+        width: 1023
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025947444167d4eadb4ad783f358aef3
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_65
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1041
+        width: 617
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f01a62a4eb45439fd7eb266b0b0c2
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 1151
+        height: 924
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d388ad50bd24d49a7995f6f0700fe3
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_67
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 24
+        width: 1820
+        height: 999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86078cdb15cc54ef099e11990893fce5
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wayu-dash_26
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1321
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f175317dd3468a8d2722584a90c88
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 37d6db195a287420883ae0a1bb5ffc12
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
