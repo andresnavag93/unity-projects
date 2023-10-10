@@ -2,11 +2,8 @@
 
 # 🕹️ Unity projects with C# 🎮
 
-</div>
-
-## ⌨️ Unity projects
-
-| Tye | Project | Code | Link |
+| Type | Project | Code | Link |
+| --- | --- | --- | --- |
 | `3D` | Awesome Runner | [See](projects/awesome-runner) | |
 | `3D` | Box Shooter | [See](projects/box-shooter) | [Video Clip](https://www.youtube.com/watch?v=NrT9TLQ41uY) |
 | `3D` | Business Cards AR | [See](projects/business-cards-ar) | [Video Clip](https://www.youtube.com/watch?v=csGzL_KCKqA) |
@@ -26,3 +23,5 @@
 | `2D` | Wayudash | [See](projects/wayudash) | [Demo](https://andresnavag93.vercel.app/) |
 | `3D` | World Platform | [See](projects/world-platform) | [Demo](https://andresnavag93.vercel.app/) |
 | `3D` | Zigzag ball | [See](projects/zigzag-ball) | [Demo](https://andresnavag93.vercel.app/) |
+
+</div>
