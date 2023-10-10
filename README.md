@@ -19,9 +19,10 @@
 | `3D` | Solar System | [See](projects/solar-system) | [Demo](https://andresnavag93.itch.io/solar-system) - [Video clip](https://youtu.be/7jwhCgYkmT8)|
 | `2D` | Space man | [See](projects/space-man) | [Demo](https://andresnavag93.itch.io/space-man) |
 | `3D` | Spinner AR Multiplayer | [See](projects/spinner-ar-multiplayer) | [Demo](https://andresnavag93.itch.io/spinner-multiplayer) |
+| `3D` | Star wars | [See](projects/star-wars) | [Video clip](https://youtu.be/j0jVuYq4nSk) |
 | `2D` | Tetris | [See](projects/tetris) |  |
-| `2D` | Wayudash | [See](projects/wayudash) | [Demo](https://andresnavag93.itch.io/wayu-dash) |
-| `3D` | World Platform | [See](projects/world-platform) | [Demo](https://andresnavag93.itch.io/space-platform) |
+| `2D` | Wayudash | [See](projects/wayudash) | [Demo](https://andresnavag93.itch.io/wayu-dash) - [Video clip](https://youtu.be/20s160Zu9Tk) |
+| `3D` | World Platform | [See](projects/world-platform) | [Demo](https://andresnavag93.itch.io/space-platform) - [Video Clip](https://youtu.be/JXZgZYYRIi4) |
 | `3D` | Zigzag ball | [See](projects/zigzag-ball) |  |
 
 </div>
