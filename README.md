@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Unity" src="https://static.platzi.com/static/images/footer/logo-unity.png" width="150" />
+</p>
+
 <div align="center">
 
 # 🕹️ Unity projects with C# 🎮
